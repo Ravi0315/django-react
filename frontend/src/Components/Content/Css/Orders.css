@@ -1,0 +1,123 @@
+.addtocart{
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    padding: 30px;
+}
+
+.addtocart .container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.addtocart h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.addtocart .card {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.addtocart.card h2 {
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.addtocart .card p {
+    margin-bottom: 8px;
+    color: #666;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+table th {
+    background: #f8f8f8;
+}
+
+.summary .row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.summary .total {
+    font-size: 20px;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.addtocart .btn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.addtocart .btn:hover {
+    background: #0056b3;
+}
+
+
+.quantity-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+.qty-btn {
+    width: 35px;
+    height: 35px;
+    border: none;
+    background: #007bff;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.qty-btn:hover {
+    background: #0056b3;
+}
+
+.span {
+    width: 30px;
+    height: 35px;
+    padding: 5px 9px;
+    text-align: center;
+    font-size: 18px;
+    margin: 0 5px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+.link{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #fff;
+    font-size: 15px;
+    color:red;
+    font-weight: 700;
+    border-radius: 8px;
+}
+.link:hover{
+    color: white;
+    background-color: red;
+}

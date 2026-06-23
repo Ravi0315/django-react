@@ -1,0 +1,85 @@
+.shipping{
+        background:#f4f6f9;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        min-height:100vh;
+        padding:20px;
+    }
+
+   .shipping .container{
+        width:100%;
+        max-width:700px;
+        background:#fff;
+        border-radius:12px;
+        padding:30px;
+        box-shadow:0 4px 15px rgba(0,0,0,0.1);
+    }
+
+    .shipping h2{
+        text-align:center;
+        margin-bottom:25px;
+        color:#333;
+    }
+
+    .form-group{
+        margin-bottom:18px;
+    }
+
+   .shipping label{
+        display:block;
+        margin-bottom:6px;
+        font-weight:bold;
+        color:#555;
+    }
+
+   .shipping input,
+    textarea,
+    select{
+        width:100%;
+        padding:12px;
+        border:1px solid #ccc;
+        border-radius:8px;
+        font-size:15px;
+    }
+
+    .read{
+        width:100%;
+        padding:20px;
+        border:2px solid #8d1c1c;
+        border-radius:8px;
+        background-color: red;
+        font-size:15px;
+    }
+    .shipping span{
+        border: 2px solid red;
+    }
+    textarea{
+        resize:none;
+        height:90px;
+    }
+
+    .row{
+        display:flex;
+        gap:15px;
+    }
+
+    .row .form-group{
+        flex:1;
+    }
+
+  .shipping  .btn{
+        width:100%;
+        background:#ff6b00;
+        color:white;
+        border:none;
+        padding:14px;
+        font-size:16px;
+        border-radius:8px;
+        cursor:pointer;
+        transition:0.3s;
+    }
+
+   .shippings .btn:hover{
+        background:#e85f00;
+    }

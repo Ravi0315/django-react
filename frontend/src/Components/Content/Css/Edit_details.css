@@ -1,0 +1,60 @@
+.edit{
+        background:#f4f4f4;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        width: 450px;
+        margin: 30px auto;
+    }
+
+    .container{
+        background:#fff;
+        padding:10px;
+        border-radius:10px;
+        box-shadow:0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    .container h3{
+        text-align:center;
+        margin-bottom:20px;
+        color:#333;
+    }
+
+    .form-group{
+        margin-bottom:15px;
+    }
+
+    .edit label{
+        display:block;
+        margin-bottom:5px;
+        font-weight:bold;
+        color:#555;
+    }
+
+    .edit input{
+        width:100%;
+        padding:10px;
+        border:1px solid #ccc;
+        border-radius:5px;
+        font-size:14px;
+    }
+
+    .edit input:focus{
+        outline:none;
+        border-color:#007bff;
+    }
+
+    .edit .btn{
+        width:100%;
+        padding:12px;
+        background:#007bff;
+        color:white;
+        border:none;
+        border-radius:5px;
+        font-size:16px;
+        cursor:pointer;
+    }
+
+    .edit .btn:hover{
+        background:#0056b3;
+    }

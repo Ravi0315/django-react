@@ -1,0 +1,48 @@
+/* Navbar background */
+.navbar {
+  background: #F8F9FA;
+}
+
+/* Nav links */
+.nav{
+  color: #181819 ;
+  position: relative;
+  margin: 0 10px;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+/* Hover color change */
+.nav:hover {
+  color: #38bdf8 ;
+}
+
+/* Underline animation */
+.nav::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background: #38bdf8;
+  transition: 0.3s ease;
+}
+
+.nav:hover::after {
+  width: 100%;
+}
+
+/* Brand styling */
+.navbar-brand {
+  color: #181819 !important;
+  letter-spacing: 1px;
+}
+.active{
+  color: #38bdf8;
+}
+.join{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
