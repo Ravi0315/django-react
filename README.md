@@ -61,41 +61,40 @@ shopping-club/
 
 ### Home Page
 
-![Cart Page](cart.png)
+![Home page](home.png)
 
 ### Product Page
 
-(Add Screenshot)
+![Product Page](product.png)
 
 ### Cart Page
 
-(Add Screenshot)
+![Cart Page](cart.png)
 
 ### Admin Dashboard
 
-(Add Screenshot)
-
-## Deployment
-
-- Backend: Render / Railway / VPS
-- Frontend: Vercel / Netlify
+![Dashboard](admin.png)
 
 ## Future Improvements
 
 - Online payment integration
-- Product reviews and ratings
-- Wishlist
+- Product reviews and rating
 - Email notifications
-- Inventory management
-
+  
 ## Author
 
 Your Name
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Ravi0315
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/makwana-ravi-    b26a64340utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-## License
 
-This project is for educational and portfolio purposes.
+
+
+
+
+
+
+
+  
