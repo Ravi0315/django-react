@@ -61,7 +61,7 @@ shopping-club/
 
 ### Home Page
 
-(Add Screenshot)
+![Cart Page](cart.png)
 
 ### Product Page
 
